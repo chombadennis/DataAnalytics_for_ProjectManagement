@@ -1,0 +1,6 @@
+﻿Equipment ID,Equipment Type,Operation Hours,Usage Frequency,Previous Maintenance,Maintenance Required
+EQ006,ECQ Machine,180,Medium,3,Yes
+EQ007,Laptop,120,High,1,No
+EQ008,Microphone,90,Low,2,Yes
+EQ009,Tent,50,Medium,0,No
+EQ010,Projector,140,High,2,Yes
